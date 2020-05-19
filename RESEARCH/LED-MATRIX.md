@@ -11,6 +11,7 @@
 - 64 x 64 pixels, 160mm wide, 160mm high (2.5mm per pixel)
 - HUB75 connector
 - 5V input voltage
+- about 100mA standby current (if you just plug in the matrix and don't display anything)
 - 1:32 scan-rate (you can only update 2 rows at once)
 - integrated circuits on the board
   - 74HC245TS (transceiver)
